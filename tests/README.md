@@ -1,3 +1,5 @@
+# Independent Verification & QA — Group 9
+
 **Responsible Team:** Group 9 (Independent Verification & QA)[cite: 3]  
 **Tech Stack:** pytest, Postman, GitHub Issues[cite: 2, 3]
 
