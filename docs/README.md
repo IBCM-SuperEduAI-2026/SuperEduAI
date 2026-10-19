@@ -1,3 +1,5 @@
+# Project Documentation — Groups 1, 2 & 3
+
 **Responsible Teams:** Group 1 (Requirements), Group 2 (UI/UX), Group 3 (Architecture)[cite: 3]
 
 ## Overview & Scope
