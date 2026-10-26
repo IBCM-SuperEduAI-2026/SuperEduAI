@@ -8,7 +8,7 @@ SuperEduAI is a proposed integrated educational platform for International Busin
 | /backend | FastAPI | G5 |
 | /database | Schema, migrations | G6 |
 | /ai | Tutor and quiz engine | G7 |
-| /docs | SRS, contracts, diagrams | G1, G3 |
+| /docs | SRS, contracts, diagrams | G1, G2, G3 |
 | /tests | QA scripts | G9 |
 | /.github | CI/CD, templates | G8 |
 
