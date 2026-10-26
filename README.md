@@ -12,6 +12,7 @@ SuperEduAI is a proposed integrated educational platform for International Busin
 | /tests | QA scripts | G9 |
 | /.github | CI/CD, templates | G8 |
 
+ 
 ## Collaboration rules
 - All changes go through pull requests.
 - Every PR needs at least one review before merge.
